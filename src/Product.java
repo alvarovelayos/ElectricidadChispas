@@ -1,10 +1,10 @@
 public class Product {
 
-    public String productCode;
-    public String Name;
-    public String model;
-    public Double cost;
-    public Integer varType;
+    private String productCode;
+    private String Name;
+    private String model;
+    private Double cost;
+    private Integer varType;
 
     public String getProductCode() {
         return productCode;
