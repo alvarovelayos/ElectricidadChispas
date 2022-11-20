@@ -1,14 +1,14 @@
 public class Freelance {
 
-    public String dni;
-    public String ClientCode;
-    public String name;
-    public String surname;
-    public String mailingAddress;
-    public String town;
-    public String province;
-    public String email;
-    public String phone;
+    private String dni;
+    private String ClientCode;
+    private String name;
+    private String surname;
+    private String mailingAddress;
+    private String town;
+    private String province;
+    private String email;
+    private String phone;
 
     public String getDni() {
         return dni;
