@@ -1,13 +1,13 @@
 public class Society {
 
-    public String clientCode;
-    public String bussinessName;
-    public String cif;
-    public String malingAddress;
-    public String town;
-    public String province;
-    public String email;
-    public String phone;
+    private String clientCode;
+    private String bussinessName;
+    private String cif;
+    private String malingAddress;
+    private String town;
+    private String province;
+    private String email;
+    private String phone;
 
     public String getClientCode() {
         return clientCode;
